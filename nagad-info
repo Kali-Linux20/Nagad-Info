@@ -1,0 +1,2 @@
+cd /data/data/com.termux/files/usr/opt/nagad-info
+python nagad-info.py
